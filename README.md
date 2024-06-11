@@ -1,1 +1,2 @@
 # Tasty-Real-Foods
+Tasty Real Foods Restaurant report analysis involves examining sales data to understand daily and monthly trends, performance, and oppourtunities in the company sales. Factors like popular toppings, peak sales days, and customer preferences play a crucial role in the analysis. Utilizing data analysis tools like Excel, SQL, and PowerBI also help in creating visually appealing dashboards to present sales insights effectively.
